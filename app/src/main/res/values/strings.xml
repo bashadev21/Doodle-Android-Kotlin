@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">doodleAndroid</string>
+    <string name="tyLogin">Log In</string>
+    <string name="tyReRoll">By Re-Roll</string>
+    <string name="tyTime">15.30 - 08.00</string>
+    <string name="ty1230">12:30 AM</string>
+    <string name="tyDate">JUN 08,2022</string>
+    <string name="tyLaneCafe">Lane Cafe</string>
+    <string name="tyCheckIn">Check In</string>
+    <string name="tyGames">Games</string>
+    <string name="ty0">0</string>
+    <string name="tyThrough">Through the something</string>
+    <string name="tyAlya">Alya</string>
+    <string name="tyOliva">Oliva</string>
+    <string name="tyCarcasonne">Carcasonne (Olivia)</string>
+    <string name="tyHeyGuys">Hey Guys. Unfortunately.I\'m running late. I\'d booked a spot at Bloodrage for 2pm</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="tyFirst">First</string>
+    <string name="tySecond">Second</string>
+    <string name="tyFirstFragment">First Fragment</string>
+    <string name="tySecondFragment">Second Fragment</string>
+
+</resources>
